@@ -1,9 +1,5 @@
----
-title: "Codebook"
-output:
-  pdf_document: default
-  html_document: default
----
+#### Codebook
+
 The process of transforming the given dataset is as follows:
 
 1. Reading the Raw Data
