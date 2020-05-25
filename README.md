@@ -1,9 +1,4 @@
----
-title: "README"
-output:
-  pdf_document: default
-  html_document: default
----
+### README
 
 Much of the in-depth description of the project is included in the codebook. Below are the overall instructions for this assignment:
 
