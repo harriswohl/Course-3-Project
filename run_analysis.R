@@ -147,5 +147,4 @@ for(x in colnames[7:36]){
         averages[, as.character(x)] <- colmean
 }
 
-
-
+averages
